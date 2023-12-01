@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 735c8c21de109aa4facac1334cf1ca94
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NEW ACADEMY
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 34a44e59892b0744084a870ab8616386, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
